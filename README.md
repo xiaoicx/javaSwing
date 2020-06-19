@@ -3,7 +3,7 @@
 
 
 
-`Calculator`: 基于`Swing`写的计算机
+`Calculator`: 基于`Swing`写的计算器
 
 `CJEdite`:基于`Swing`写的记事本
 
